@@ -1,0 +1,16 @@
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.exe
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.deps.json
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.runtimeconfig.json
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.runtimeconfig.dev.json
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.dll
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\ref\FightingGame.dll
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\bin\Debug\net5.0\FightingGame.pdb
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.csproj.AssemblyReference.cache
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.AssemblyInfoInputs.cache
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.AssemblyInfo.cs
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.dll
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\ref\FightingGame.dll
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.pdb
+C:\Users\sundvisson.alexande\Documents\vscode\FightingGame\FightingGame\obj\Debug\net5.0\FightingGame.genruntimeconfig.cache

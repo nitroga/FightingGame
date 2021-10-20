@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 Random rnd = new Random();
 
@@ -8,13 +9,16 @@ int EnemyHealth = 100;
 Console.WriteLine("Welcome to this Fighting Game\nPlease choose a name for your fighter");
 
 string name = Console.ReadLine();
-string enemy = "Enemy";
+
+var list = new List<string>{"Vlad","Jeff","Bob"};
+int index = rnd.Next(list.Count);
+string enemy = list[index];
 
 Console.WriteLine($"\nFight:\n{name} vs {enemy}!\n");
 
 while (Health > 0 && EnemyHealth > 0)
 {
-    int damage = rnd.Next(16);
+    int damage = rnd.Next(21);
     EnemyHealth -= damage;
     if (EnemyHealth <= 0)
     {

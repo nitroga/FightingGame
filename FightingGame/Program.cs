@@ -8,6 +8,8 @@ int EnemyHealth = 100;
 int damage;
 int chance;
 int enemyAttack;
+int loop = 1;
+
 
 Console.WriteLine("Welcome to this Fighting Game\nPlease choose a name for your fighter");
 
@@ -20,7 +22,7 @@ string action;
 
 Console.WriteLine($"\nFight:\n{name} vs {enemy}!\n");
 
-while (Health > 0 && EnemyHealth > 0)
+while (loop == 1)
 {
     Console.WriteLine("Choose an attack!");
     Console.ForegroundColor = ConsoleColor.Cyan;
@@ -87,7 +89,6 @@ while (Health > 0 && EnemyHealth > 0)
         Console.WriteLine($"Your health is now {Health}");
     }
     }
-}
 
 if (Health > 0 && EnemyHealth == 0)
 {
@@ -97,5 +98,7 @@ else if (Health == 0 && EnemyHealth > 0)
 {
     Console.WriteLine($"\n{enemy} won with {EnemyHealth} health left! :(");
 }
+}
+else {
 
-Console.ReadLine();
+}
